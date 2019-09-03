@@ -1,0 +1,100 @@
+body{
+}
+
+.loginform{
+
+    height: 100vh!important;
+   background: #77A1D3;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #E684AE, #79CBCA, #77A1D3);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #E684AE, #79CBCA, #77A1D3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.dashboard{
+min-height: 100vh;
+   background: #77A1D3;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #E684AE, #79CBCA, #77A1D3);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #E684AE, #79CBCA, #77A1D3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+body{
+    background: -webkit-linear-gradient(to right, #292E49, #536976);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #292E49, #536976); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+;
+
+}
+.formwrapper{
+    margin-top: 15%;
+    padding: 20px;
+    box-shadow: 0px 10px 20px 0px rgba(255,255,255,0.3);
+    background: #536976;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #292E49, #536976);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #292E49, #536976); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+;
+    border-radius: 4%;
+}
+
+.formheading{
+    color: floralwhite;
+    font-weight: 600!important;
+}
+
+.fontsize{
+    font-size: 20px;
+    text-align: left!impoertant;
+}
+
+.formwrapperregister{
+    margin-top: 5%;
+    padding: 20px;
+    box-shadow: 0px 10px 20px 0px rgba(255,255,255,0.3);
+    background: #536976;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #292E49, #536976);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #292E49, #536976); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+;
+    border-radius: 4%;
+}
+
+.uploadimage{
+    /* border: 20px; */
+    height: 20px;
+    width: 30px;
+}
+
+.mynav{
+	background-color:black;
+}
+
+.myform{
+    width: auto;
+/*    background-color: aliceblue;*/
+background: -webkit-linear-gradient(to right, #E684AE, #79CBCA, #77A1D3);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #E684AE, #79CBCA, #77A1D3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+}
+
+.myupdate{
+  display: block;
+  padding: 30px;
+  border : 3px solid pink;
+  width: 50%;
+  align-self: auto;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: white;
+}
+.mybutton{
+  /* color:  #E684AE!important; */
+  background-color: #77A1D3;
+}
+
+.logout{
+	color: white!important;
+}
+
+.userdata{
+    padding: 40px;
+}
